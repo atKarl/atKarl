@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karl-Emmanuel</h1>
 <h3 align="center">A tech passionate from Toulouse, France.</h3>
 
-- 🔭 I’m currently working on [LoLDle](https://github.com/atKarl/Wordle-LoL)
+- 🔭 I’m currently working on [Trundle](https://github.com/atKarl/Wordle-LoL)
 
 - 🌱 I’m currently learning **Typescript, React and NextJS aswell as Bootstrap and SASS.**
 
