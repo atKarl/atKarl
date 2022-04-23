@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Trundle](https://github.com/atKarl/Wordle-LoL)
 
-- 🌱 I’m currently learning **Typescript, React and NextJS aswell as Bootstrap and SASS.**
+- 🌱 I’m currently learning **Typescript, React and NextJS.**
 
 - 📫 How to reach me **atkarlemm@gmail.com**
 
