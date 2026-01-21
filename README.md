@@ -1,16 +1,40 @@
-<h1 align="center">Hi 👋, I'm Karl-Emmanuel</h1>
-<h3 align="center">A tech passionate from Toulouse, France.</h3>
+# Salut ! Moi c'est Karl-Emmanuel 👋
 
-- 🔭 I’m currently working on [Trundle](https://github.com/atKarl/Wordle-LoL)
+### 🇫🇷 Passionné de tech basé à Nantes
 
-- 🌱 I’m currently learning **Typescript, React and NextJS.**
+Dév' curieux et amateur de défis, j'aime construire des trucs sympas et apprendre de nouvelles technos. Quand je ne suis pas devant mon écran, je suis sûrement en train de soulever de la fonte ou sur un jeu vidéo (devant mon écran donc).
 
-- 📫 How to reach me **atkarlemm@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/karlemmanuel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karlemmanuel_" height="30" width="40" /></a>
-</p>
+### 🚀 En quelques mots
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🔭 **Projet notable :** J'ai créé **Trundle** (un Wordle version League of Legends). Le projet est actuellement "au garage", mais je réfléchis à le remettre en route !
+- 🎯 **Objectif :** Explorer de nouveaux horizons et bosser sur des projets qui ont du sens.
+- ☕ **Ma philosophie :** *Life is too short to code in Java.*
+
+---
+
+### 🛠️ Mon Stack Technique
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+---
+
+### 📊 Mes Stats GitHub
+
+| ![Stats de Karl](https://github-readme-stats.vercel.app/api?username=atKarl&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=atKarl&layout=compact&theme=tokyonight&hide_border=true) |
+| :--- | :--- |
+
+---
+
+### 🤝 Me contacter
+
+- 📧 Email : [atkarlemm@gmail.com](mailto:atkarlemm@gmail.com)
+
+---
